@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="sing_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="avatar">Avatar</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="surname_2">Surname_2</string>
+    <string name="done">Done</string>
+    <string name="search">Search</string>
+    <string name="something_went_wrong">Something went wrong :(</string>
+    <string name="nothing_found">Nothing found :(</string>
+
+</resources>

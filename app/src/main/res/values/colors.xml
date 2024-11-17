@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="super_cold">#3F51B5</color>
+    <color name="cold">#A1ACE6</color>
+    <color name="a_bit_cold">#D9DBE9</color>
+    <color name="a_bit_warm">#FFE5AF</color>
+    <color name="warm">#FFC107</color>
+    <color name="super_warm">#FF786E</color>
+</resources>
